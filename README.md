@@ -8,8 +8,6 @@ Building software, exploring AI, and growing communities.
 [![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=flat-square&logo=googlechrome&logoColor=white)](https://kashishgupta2911.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kashishgupta2911)
 
-**Seeking Summer 2027 Software Engineering Internships**
-
 </div>
 
 ## About Me
@@ -25,14 +23,13 @@ I'm a Computing Science Honors student at the University of Alberta, graduating 
 
 | Project | About |
 | :--- | :--- |
-| **Peer Earnings Watch** | An ongoing earnings forecasting project using peer-company observations, with workflows running in Databricks. |
-| **EvacuMate** | An emergency response system using Flask, React, and AWS Bedrock, with Docker, automated CI/CD, and 95% test coverage. |
-| **ResiSense** | A React and Flask recommendation platform using PostgreSQL, weighted K-Means clustering, and regression across 300+ Edmonton neighborhoods. |
+| **Peer Earnings Watch** | An **ongoing** earnings forecasting project using peer-company observations, with workflows running in Databricks. |
+| [**ResiSense**](https://github.com/kashishgupta2911/resiSense) | A React and Flask recommendation platform using PostgreSQL, weighted K-Means clustering, and regression across 300+ Edmonton neighborhoods. |
 | [**SkinBuddy**](https://github.com/kashishgupta2911/SkinBuddy) | A dermatological triage app integrating computer vision models and LLM APIs, developed through RBC Borealis’ Let's Solve It program. |
 | [**CareNest**](https://github.com/kashishgupta2911/WAI---CareNest) | A postpartum support app — second place at the Women in AI Canada Hackathon. |
-| **MyArc Mobile** | An Android transit project for Edmonton Transit Service — first place at the GovTech Hackathon. |
+| **MyArc Mobile** | An Android transit project for Edmonton Transit Service — first place for design at the GovTech Hackathon. |
 
-[Explore more of my work →](https://kashishgupta2911.github.io/portfolio/)
+[Learn more about me →](https://kashishgupta2911.github.io/portfolio/)
 
 ## Technical Skills
 
@@ -45,8 +42,5 @@ I'm a Computing Science Honors student at the University of Alberta, graduating 
 | **Cloud** | AWS (EC2, S3, Lambda, Bedrock), GCP, Oracle Integration Cloud |
 | **DevOps & Testing** | Docker, Kubernetes, Linux, Git, GitHub Actions, Jenkins, Pytest |
 
-## Beyond Code
-
-You'll usually find me reading, exploring cafés, planning a trip, or organizing something for the student tech community.
 
 Always happy to chat!! [Let's connect!](https://www.linkedin.com/in/kashishgupta2911)
