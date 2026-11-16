@@ -23,8 +23,7 @@ I'm a Computing Science Honors student at the University of Alberta, graduating 
 
 | Project | About |
 | :--- | :--- |
-| **Peer Earnings Watch** | An **ongoing** earnings forecasting project using peer-company observations, with workflows running in Databricks. |
-| [**ResiSense**](https://github.com/kashishgupta2911/resiSense) | A React and Flask recommendation platform using PostgreSQL, weighted K-Means clustering, and regression across 300+ Edmonton neighborhoods. |
+| **Peer Earnings Watch** | **Ongoing**: Analyzes peer-company earnings to identify industry trends and inform forecasts, with historical evaluation of prediction accuracy. || [**ResiSense**](https://github.com/kashishgupta2911/resiSense) | A React and Flask recommendation platform using PostgreSQL, weighted K-Means clustering, and regression across 300+ Edmonton neighborhoods. |
 | [**SkinBuddy**](https://github.com/kashishgupta2911/SkinBuddy) | A dermatological triage app integrating computer vision models and LLM APIs, developed through RBC Borealis’ Let's Solve It program. |
 | [**CareNest**](https://github.com/kashishgupta2911/WAI---CareNest) | A postpartum support app: second place at the Women in AI Canada Hackathon. |
 | **MyArc Mobile** | An Android transit project for Edmonton Transit Service: first place for design at the GovTech Hackathon. |
