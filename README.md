@@ -14,10 +14,10 @@ Building software, exploring AI, and growing communities.
 
 I'm a Computing Science Honors student at the University of Alberta, graduating in June 2028. I enjoy building useful software, working with complex data, and turning machine learning ideas into applications.
 
-- 💻 **IT Solutions Architect Intern at ATCO** — Developing automated parsing and reconciliation workflows, mapping data across enterprise systems, and working with Python, APIs, and GCP.
-- 🔬 **Previously a Research Assistant at UAlberta** — Trained and evaluated financial fraud detection models using graph neural networks, Random Forest, and XGBoost.
-- 🤖 **ML Fellow at RBC Borealis and AI4Good Lab** — Built projects spanning computer vision, recommendation systems, and full-stack development.
-- 🌱 **President of the Undergraduate AI Society & VP Academics at Ada’s Team** — Helping students learn, build projects, and connect with opportunities.
+- 💻 **IT Solutions Architect Intern at ATCO** - Developing automated parsing and reconciliation workflows, mapping data across enterprise systems, and working with Python, APIs, and GCP.
+- 🔬 **Previously a Research Assistant at UAlberta** - Trained and evaluated financial fraud detection models using graph neural networks, Random Forest, and XGBoost.
+- 🤖 **ML Fellow at RBC Borealis and AI4Good Lab** - Built projects spanning computer vision, recommendation systems, and full-stack development.
+- 🌱 **President of the Undergraduate AI Society & VP Academics at Ada’s Team** - Helping students learn, build projects, and connect with opportunities.
 
 ## Selected Projects
 
@@ -26,8 +26,8 @@ I'm a Computing Science Honors student at the University of Alberta, graduating 
 | **Peer Earnings Watch** | An **ongoing** earnings forecasting project using peer-company observations, with workflows running in Databricks. |
 | [**ResiSense**](https://github.com/kashishgupta2911/resiSense) | A React and Flask recommendation platform using PostgreSQL, weighted K-Means clustering, and regression across 300+ Edmonton neighborhoods. |
 | [**SkinBuddy**](https://github.com/kashishgupta2911/SkinBuddy) | A dermatological triage app integrating computer vision models and LLM APIs, developed through RBC Borealis’ Let's Solve It program. |
-| [**CareNest**](https://github.com/kashishgupta2911/WAI---CareNest) | A postpartum support app — second place at the Women in AI Canada Hackathon. |
-| **MyArc Mobile** | An Android transit project for Edmonton Transit Service — first place for design at the GovTech Hackathon. |
+| [**CareNest**](https://github.com/kashishgupta2911/WAI---CareNest) | A postpartum support app: second place at the Women in AI Canada Hackathon. |
+| **MyArc Mobile** | An Android transit project for Edmonton Transit Service: first place for design at the GovTech Hackathon. |
 
 [Learn more about me →](https://kashishgupta2911.github.io/portfolio/)
 
